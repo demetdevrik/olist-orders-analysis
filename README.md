@@ -60,23 +60,23 @@ Interactive visualizations are included, with static chart exports for GitHub di
 ## Dashboard / Charts Preview
 
 ### Top 10 Product Categories by Total Revenue
-![Top Categories by Revenue](images/top_categories_revenue.png)
+![Top Categories by Revenue](images/top_categories_revenue.jpg)
 
 ### Delivery Time Distribution (Days)
-![Delivery Time Distribution](images/delivery_days_distribution.png)
+![Delivery Time Distribution](images/delivery_days_distribution.jpg)
 
 ### Review Score Distribution (%)
-![Review Score Distribution](images/review_score_distribution.png)
+![Review Score Distribution](images/review_score_distribution.jpg)
 
 ### Customer Satisfaction by Delivery Speed
-![Satisfaction by Delivery Speed](images/satisfaction_by_speed.png)
+![Satisfaction by Delivery Speed](images/satisfaction_by_speed.jpg)
 
 ### Average Review Score by Delivery Delay Group
-![Review by Delay Group](images/review_by_delay.png)
+![Review by Delay Group](images/review_by_delay.jpg)
 
 ### Top Categories by Customer Satisfaction Rate
-![Top Categories by Satisfaction](images/top_categories_satisfaction.png)
+![Top Categories by Satisfaction](images/top_categories_satisfaction.jpg)
 
 ### Total Revenue by Customer Satisfaction
-![Revenue by Satisfaction](images/revenue_by_satisfaction.png)
+![Revenue by Satisfaction](images/revenue_by_satisfaction.jpg)
 
