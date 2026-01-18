@@ -54,8 +54,9 @@ Interactive visualizations are included, with static chart exports for GitHub di
 
 ## How to Use
 1. Open the notebook in Colab:
- 
-(https://colab.research.google.com/drive/17sMAM4qyAbxSeyBrLRK3vuoFWUJ0iVOY?usp=sharing)
+2. 
+[Open in Colab](https://colab.research.google.com/drive/17sMAM4qyAbxSeyBrLRK3vuoFWUJ0iVOY?usp=sharing)
+
 
 ## Dashboard / Charts Preview
 
